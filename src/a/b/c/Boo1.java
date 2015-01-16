@@ -5,5 +5,6 @@ package a.b.c;
  */
 public class Boo1 {
      //111
+    //
     // trunk ch1
 }
