@@ -1,4 +1,4 @@
-package a.b.c;
+package a.b.ccc;
 
 /**
  * Created by me on 14/01/15.
