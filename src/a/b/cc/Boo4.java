@@ -7,4 +7,6 @@ package a.b.cc;
  * *******************************
  */
 public class Boo4 {
+
+
 }
