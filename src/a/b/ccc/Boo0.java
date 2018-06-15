@@ -8,4 +8,9 @@ public class Boo0 {
     // ubuntu1
     // win1
     //
+
+    @Override
+    public String toString() {
+        return "Boo0";
+    }
 }
