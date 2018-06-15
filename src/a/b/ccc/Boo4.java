@@ -10,5 +10,5 @@ package a.b.ccc;
 public class Boo4 {
 // clone2
 // clone2
-
+int aaa;
 }
