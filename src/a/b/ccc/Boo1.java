@@ -13,4 +13,6 @@ public class Boo1 {
     //3
     //qqqqq
     //4
+     String aaa, bbb, ccc;
+
 }
