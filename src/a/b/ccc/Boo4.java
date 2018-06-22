@@ -11,6 +11,7 @@ public class Boo4 {
 // clone2
 // clone2
 // clone2
+// clone...
 int aaa;
 
     public Boo4(int aaa) {
